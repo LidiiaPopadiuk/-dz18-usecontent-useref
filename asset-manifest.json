@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dz18-usecontent-useref/static/css/main.984a6b16.css",
+    "main.js": "/dz18-usecontent-useref/static/js/main.5715fdaf.js",
+    "index.html": "/dz18-usecontent-useref/index.html",
+    "main.984a6b16.css.map": "/dz18-usecontent-useref/static/css/main.984a6b16.css.map",
+    "main.5715fdaf.js.map": "/dz18-usecontent-useref/static/js/main.5715fdaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.984a6b16.css",
+    "static/js/main.5715fdaf.js"
+  ]
+}
